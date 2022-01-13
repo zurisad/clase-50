@@ -1,0 +1,13 @@
+<h1> Diseños de Origami</h1>
+
+        <a href="about.html">Acerca de nosotros</a>
+        <a href="followus.html">Síguenos</a>
+
+         flex-wrap: wrap;
+    justify-content:space-between;
+    background-color: rgb(131, 78, 78);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight:400;
+    color: rgb(44, 201, 13);
+}
